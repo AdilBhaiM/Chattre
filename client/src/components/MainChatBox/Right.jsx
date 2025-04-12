@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ChatHeader from "../CHatHeader";
+import ChatHeader from "../ChatHeader";
 import ChatsContainer from "../ChatsContainer.jsx";
 import MessageSkeleton from "../Skeletons/ChatsLoader";
 import InputMessage from "../InputMessage";
